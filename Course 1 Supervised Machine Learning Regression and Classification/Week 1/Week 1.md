@@ -1,8 +1,8 @@
 # Week 1
 
-Course 1 of Machine Learning Specialization Coursera
+Course 1 of Machine Learning Specialization Coursera.
 
-Course - Supervised Machine Learning : Regression and Classification
+Course - Supervised Machine Learning : Regression and Classification.
 
 Week 1
  
