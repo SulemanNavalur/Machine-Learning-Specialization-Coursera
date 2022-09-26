@@ -1,8 +1,8 @@
 # Week 2
 
-Course 1 of Machine Learning Specialization Coursera
+Course 1 of Machine Learning Specialization Coursera.
 
-Course - Supervised Machine Learning : Regression and Classification
+Course - Supervised Machine Learning : Regression and Classification.
 
 Week 2
 
@@ -13,9 +13,9 @@ At the end of the week, we will get to practice implementing linear regression i
 
 ## Learning Objectives
 
-* Use vectorization to implement multiple linear regression
-* Use feature scaling, feature engineering, and polynomial regression to improve model training
-* Implement linear regression in code
+* Use vectorization to implement multiple linear regression.
+* Use feature scaling, feature engineering, and polynomial regression to improve model training.
+* Implement linear regression in code.
 
 ## Content
 
@@ -40,3 +40,9 @@ Five Ungraded/Optional Labs,
 * Feature Scaling and Learning Rate.
 * Feature Engineering and Polynomial Regression
 * Linear Regression with scikit-learn.
+
+## Practice Lab
+
+One Graded programming assignment,
+
+* Linear Regression.
