@@ -1,4 +1,4 @@
-# Practice Lab
+# Practice Lab 1
 
 One graded programming assignment,
 
