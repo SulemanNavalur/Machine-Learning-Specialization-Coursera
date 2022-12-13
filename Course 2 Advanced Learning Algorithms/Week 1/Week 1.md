@@ -1,6 +1,6 @@
 # Week 1
 
-Course 1 of Machine Learning Specialization Coursera.
+Course 2 of Machine Learning Specialization Coursera.
 
 Course - Advanced Learning Algorithms.
 
