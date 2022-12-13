@@ -30,7 +30,6 @@ In Week 3 we get to see,
 * Advice for applying machine learning.
 * Bias and variance.
 * Machine learning development process.
-* Neural Network Implementation in Python.
 * Skewed datasets.
 
 ## Practice Quiz
@@ -40,7 +39,6 @@ Three Practice Quiz's,
 * Advice for applying machine learning.
 * Bias and variance.
 * Machine learning development process.
-* Neural Network Implementation in Python.
 
 
 ## Practice Lab
