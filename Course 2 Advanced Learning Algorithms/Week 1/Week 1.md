@@ -1,58 +1,50 @@
-# Week 1
+# Week 3
 
 Course 2 of Machine Learning Specialization Coursera.
 
 Course - Advanced Learning Algorithms.
 
-Week 1
+Week 3
  
-In Week 1, we will learn about Neural Networks and how to use them for classification tasks.
-We will use the TensorFlow framework to build a Neural Network with just a few lines of code. 
-Then, dive deeper by learning how to code up your own neural network in Python, "from scratch". 
-Optionally, we can learn more about how neural network computations are implemented efficiently using parallel processing (vectorization).
+In Week 3, we will learn best practices for training and evaluating your learning algorithms to improve performance. This will cover a wide range of useful advice about the machine learning lifecycle, tuning your model, and also improving your training data..
 
 ## Learning Objectives
 
-* Get familiar with the diagram and components of a neural network.
-* Understand the concept of a "layer" in a neural network.
-* Understand how neural networks learn new features.
-* Understand how activations are calculated at each layer.
-* Learn how a neural network can perform classification on an image.
-* Use a framework, TensorFlow, to build a neural network for classification of an image.
-* Learn how data goes into and out of a neural network layer in TensorFlow.
-* Build a neural network in regular Python code (from scratch) to make predictions.
-* (Optional): Learn how neural networks use parallel processing (vectorization) to make computations faster.
+* Evaluate and then modify your learning algorithm or data to improve your model's performance.
+* Evaluate your learning algorithm using cross validation and test datasets.
+* Diagnose bias and variance in your learning algorithm.
+* Use regularization to adjust bias and variance in your learning algorithm.
+* Identify a baseline level of performance for your learning algorithm.
+* Understand how bias and variance apply to neural networks.
+* Learn about the iterative loop of Machine Learning Development that's used to update and improve a machine learning model.
+* Learn to use error analysis to identify the types of errors that a learning algorithm is making.
+* Learn how to add more training data to improve your model, including data augmentation and data synthesis.
+* Use transfer learning to improve your model's performance.
+* Learn to include fairness and ethics in your machine learning model development.
+* Measure precision and recall to work with skewed (imbalanced) datasets.
 
 ## Content
 
-In Week 1 we get to see,
+In Week 3 we get to see,
  
-* Neural Networks Intuition.
-* Neural Network Model.
-* TensorFlow Implementation.
+* Advice for applying machine learning.
+* Bias and variance.
+* Machine learning development process.
 * Neural Network Implementation in Python.
-* Speculations on artificial general intelligence(AGI).
-* Vectorization.
+* Skewed datasets.
 
 ## Practice Quiz
 
 Three Practice Quiz's,
 
-* Neural Networks Intuition.
-* Neural Network Model.
-* TensorFlow Implementation.
+* Advice for applying machine learning.
+* Bias and variance.
+* Machine learning development process.
 * Neural Network Implementation in Python.
 
-## Optional Labs
-
-Three Ungraded/Optional Labs,
-
-* Neurons and Layers.
-* Coffee Roasting in Tensorflow.
-* Coffee Roasting NumPy.
 
 ## Practice Lab
 
 One graded programming assignment,
 
-* Neural Networks.
+* Advice for applying machine learning.
